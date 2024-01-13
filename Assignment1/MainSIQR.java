@@ -25,6 +25,7 @@ public class MainSIQR
 		System.out.println("Deceased: " + output[1]);
 
 			System.out.println("hoi");
+			System.out.println("hoi");
 
 		}
 
